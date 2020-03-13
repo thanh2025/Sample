@@ -32,7 +32,7 @@ namespace WindowsFormsApp1
             }
             catch (Exception ex)
             {
-                MessageBox.Show("could not run usbtenkiget: " + ex);
+                MessageBox.Show("could not run usbtenkiget:  " + ex);
                 return;
             }
 
